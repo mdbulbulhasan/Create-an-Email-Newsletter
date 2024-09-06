@@ -15,3 +15,5 @@ structure for the email newsletter.
 
 -> HTML code: It is used to design the structure of the 
 newsletter form.
+
+Page link-https://mdbulbulhasan.github.io/Create-an-Email-Newsletter/
